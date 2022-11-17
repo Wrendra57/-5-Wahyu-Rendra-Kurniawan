@@ -1,7 +1,7 @@
 
 # Challenge 5
 ## ERD
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Untitled](https://user-images.githubusercontent.com/89427507/202471937-98b23cd6-b25f-4612-a3f9-d3554a52a520.png)
 
 ## Endpoint
 
